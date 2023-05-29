@@ -1,0 +1,1 @@
+The term _governance_ describes the general process of establishing rules and policies and ensuring that those rules and policies are enforced.
